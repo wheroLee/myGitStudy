@@ -1,0 +1,10 @@
+error: src refspec master does not match any
+
+how to solve
+""" git
+git init
+git add.
+git commit -m "fix the match any issue problem"
+git remote add origin "github.com/wheroLee.git"
+git push -u origin master
+"""
